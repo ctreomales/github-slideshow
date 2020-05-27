@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "Stan Red Velvet!"
 ---
-Your text
-Something new
+Subunit Debut on June 15
+Red Velvet - IRENE & SEULGI
